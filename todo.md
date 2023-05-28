@@ -1,1 +1,2 @@
 - [ ] Dar merge no código
+- [ ] Anotar comandos
